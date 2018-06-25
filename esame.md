@@ -1,4 +1,4 @@
-# Quarto Livello ( Diploma ). Cosa sapere?
+# Programma Quarto Livello
 ## SEZIONE I: Scale ed Arpeggi (MASSIMO 10 CREDITI)
 - Scale asc desc "Modi Minore Melodica" e "Modi minore Armonica" con:
     - sistema derivativo    => penso alla scala generatrice ( e quindi non alla fondamentale come prima nota )
